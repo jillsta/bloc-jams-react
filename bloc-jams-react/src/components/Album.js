@@ -68,9 +68,14 @@ class Album extends Component {
 									<tr id="song-index"> {index + 1} </tr>
 									<tr id="song-title">{song.title}</tr>
 									<tr id="song-duration">{song.duration}</tr>
+<<<<<<< HEAD
 									<tr id="song-audioSrc">{song.audioSrc}</tr>
 							</div>
 							</tr>
+=======
+								</div>
+							</div>	
+>>>>>>> HW-6-Album
 					)						
 					}		
 					</tbody>
